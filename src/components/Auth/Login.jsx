@@ -144,9 +144,7 @@ const Login = () => {
                         Sign up
                       </Link>
                     </p>
-                    <p className="mt-2 small text-muted">
-                      Test credentials: test@example.com / password123
-                    </p>
+                    
                   </div>
                 </form>
               </div>
