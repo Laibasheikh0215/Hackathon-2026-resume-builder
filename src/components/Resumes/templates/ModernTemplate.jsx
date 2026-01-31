@@ -229,7 +229,7 @@ const ModernTemplate = ({ data, isDarkMode }) => {
                         background: isDarkMode ? '#1e1e1e' : '#f8f9fa',
                         padding: '20px',
                         borderRadius: '8px',
-                        borderLeft: `4px solid ${isDarkMode ? '#4fc3f7' : '#1976d2}`
+                        borderLeft: "4px solid ${isDarkMode ? '#4fc3f7' : '#1976d2}"
                       }}>
                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '10px' }}>
                           <h3 style={{
@@ -307,7 +307,7 @@ const ModernTemplate = ({ data, isDarkMode }) => {
                       background: isDarkMode ? '#1e1e1e' : '#f8f9fa',
                       padding: '20px',
                       borderRadius: '8px',
-                      borderTop: `3px solid ${isDarkMode ? '#4fc3f7' : '#1976d2}`
+                      borderTop: "3px solid ${isDarkMode ? '#4fc3f7' : '#1976d2}"
                     }}>
                       <h3 style={{
                         fontSize: '17px',
